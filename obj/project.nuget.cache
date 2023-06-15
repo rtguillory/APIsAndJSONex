@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "3ErVxsH60eXu/r/q0wnTEFWMZDeoWZemdDPfPmHMbzC8N3jKyuH1/4wWXhQDpvP+uVQgeOipQn/ceY7/NPrdHg==",
+  "dgSpecHash": "cdwQTnAuy4xO5OXRd7Cjut52twxbhTkHOTBvdXkIslGVzUWO/DNn6mVcWl5xcscx4BjVmP+yRAxc0aXhfwRNVg==",
   "success": true,
   "projectFilePath": "C:\\Users\\guill\\repos\\APIsAndJSONex\\APIsAndJSONex.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\guill\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

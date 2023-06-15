@@ -1,4 +1,5 @@
 ﻿using System;
+using Newtonsoft.Json.Linq;
 
 namespace APIsAndJSONex
 {
@@ -6,7 +7,8 @@ namespace APIsAndJSONex
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //RonVSKanyeAPI.Conversation();
+            OpenWeatherAppAPI.GetWeather();
         }
     }
 }

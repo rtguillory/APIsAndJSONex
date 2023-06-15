@@ -1,0 +1,16 @@
+C:\Users\guill\repos\APIsAndJSONex\bin\Debug\netcoreapp3.1\APIsAndJSONex.exe
+C:\Users\guill\repos\APIsAndJSONex\bin\Debug\netcoreapp3.1\APIsAndJSONex.deps.json
+C:\Users\guill\repos\APIsAndJSONex\bin\Debug\netcoreapp3.1\APIsAndJSONex.runtimeconfig.json
+C:\Users\guill\repos\APIsAndJSONex\bin\Debug\netcoreapp3.1\APIsAndJSONex.runtimeconfig.dev.json
+C:\Users\guill\repos\APIsAndJSONex\bin\Debug\netcoreapp3.1\APIsAndJSONex.dll
+C:\Users\guill\repos\APIsAndJSONex\bin\Debug\netcoreapp3.1\APIsAndJSONex.pdb
+C:\Users\guill\repos\APIsAndJSONex\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\guill\repos\APIsAndJSONex\obj\Debug\netcoreapp3.1\APIsAndJSONex.csproj.AssemblyReference.cache
+C:\Users\guill\repos\APIsAndJSONex\obj\Debug\netcoreapp3.1\APIsAndJSONex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guill\repos\APIsAndJSONex\obj\Debug\netcoreapp3.1\APIsAndJSONex.AssemblyInfoInputs.cache
+C:\Users\guill\repos\APIsAndJSONex\obj\Debug\netcoreapp3.1\APIsAndJSONex.AssemblyInfo.cs
+C:\Users\guill\repos\APIsAndJSONex\obj\Debug\netcoreapp3.1\APIsAndJSONex.csproj.CoreCompileInputs.cache
+C:\Users\guill\repos\APIsAndJSONex\obj\Debug\netcoreapp3.1\APIsAndJSONex.csproj.CopyComplete
+C:\Users\guill\repos\APIsAndJSONex\obj\Debug\netcoreapp3.1\APIsAndJSONex.dll
+C:\Users\guill\repos\APIsAndJSONex\obj\Debug\netcoreapp3.1\APIsAndJSONex.pdb
+C:\Users\guill\repos\APIsAndJSONex\obj\Debug\netcoreapp3.1\APIsAndJSONex.genruntimeconfig.cache
